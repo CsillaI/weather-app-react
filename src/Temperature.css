@@ -1,0 +1,42 @@
+.Temperature h1.d-sm-inline-flex {
+  padding: 0px;
+  width: max-content;
+  height: max-content;
+}
+
+.Temperature .temperature-wrapper .active {
+  color: rgba(3, 7, 30, 1);
+  cursor: default;
+  text-decoration: none;
+}
+.Temperature .temperature-wrapper .active:hover {
+  text-decoration: none;
+}
+
+.Temperature a.fahrenheit {
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.Temperature a.fahrenheit:hover {
+  text-decoration: none;
+  cursor: default;
+}
+
+.Temperature a.celsius {
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.Temperature a.celsius:hover {
+  text-decoration: none;
+  cursor: default;
+}
+
+.Temperature .temperature-wrapper .units-separator {
+  font-size: 30px;
+}
+
+.Temperature .units-separator {
+  color: rgba(3, 7, 30, 1);
+}

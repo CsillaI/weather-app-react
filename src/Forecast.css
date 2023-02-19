@@ -1,0 +1,33 @@
+.Forecast h5 {
+  font-size: 25px;
+  font-weight: bold;
+}
+.Forecast div .date {
+  font-size: 20px;
+}
+
+.Forecast .card-body {
+  padding: 16px 0px 10px 0px;
+}
+
+.Forecast .card {
+  border-color: white;
+  border-top-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  background: rgba(220, 236, 252, 0.5);
+}
+
+.Forecast .weather-forecast {
+  margin: 0 auto;
+  max-width: 850px;
+  margin-left: 30px;
+  border-style: solid rgba(17, 38, 165, 0.9);
+}
+
+.Forecast .forecast-wrapper {
+  border-style: solid rgba(17, 38, 165, 0.9);
+}
+
+.Forecast .max-temp {
+  font-weight: bold;
+}

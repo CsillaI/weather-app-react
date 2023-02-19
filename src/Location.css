@@ -1,0 +1,27 @@
+.Location h2.city {
+  font-size: 50px;
+  line-height: 37px;
+  margin-top: 30px;
+}
+
+.Location .date-main {
+  font-size: 25px;
+  line-height: 45px;
+}
+
+.Location .today {
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 45px;
+}
+
+.Location .time-main {
+  font-size: 25px;
+  line-height: 25px;
+}
+
+.Location .time-date-wrapper {
+  max-width: 371px;
+  padding: 0;
+  text-align: left;
+}

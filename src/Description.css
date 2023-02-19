@@ -1,0 +1,14 @@
+.Description div.weather-description {
+  text-transform: capitalize;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bolder;
+}
+
+.Description .horizontal-line {
+  border: solid 1px #fff;
+  margin: 0;
+  text-align: left;
+  width: 132px;
+  size: 20px;
+}
