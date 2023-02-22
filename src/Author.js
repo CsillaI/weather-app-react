@@ -16,7 +16,7 @@ export default function Author() {
         </a>
         , open sourced on{" "}
         <a
-          href="https://github.com/CsillaI/my-weather-app"
+          href="https://github.com/CsillaI/weather-app-react"
           target="_blank"
           rel="noreferrer"
           className="git-link"
@@ -25,7 +25,7 @@ export default function Author() {
         </a>
         , & hosted on{" "}
         <a
-          href="https://bespoke-melomakarona-f38b91.netlify.app/"
+          href="https://effortless-speculoos-63b60f.netlify.app/"
           target="_blank"
           rel="noreferrer"
           className="netlify-link"
