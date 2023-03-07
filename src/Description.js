@@ -7,7 +7,9 @@ export default function Description() {
       <div
         className="d-sm-flex align-content-sm-left weather-description"
         id="weather-description"
-      ></div>
+      >
+        Clear Sky
+      </div>
 
       <hr className="horizontal-line" />
     </div>
